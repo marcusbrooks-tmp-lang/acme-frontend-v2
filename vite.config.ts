@@ -1,1 +1,1 @@
-// Scaffold React project with Vite and TypeScript config
+// Optimize bundle size and enable code splitting
